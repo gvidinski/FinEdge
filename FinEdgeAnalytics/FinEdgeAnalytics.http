@@ -1,0 +1,6 @@
+@FinEdgeAnalytics_HostAddress = http://localhost:5147
+
+GET {{FinEdgeAnalytics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
